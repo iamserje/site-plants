@@ -1,0 +1,33 @@
+main background - EDF2EC
+
+
+green - #499A18
+
+ogang - #E06733
+
+grey - #717171
+
+dark-grey - #636060
+
+light - #EDF2EC (Big section)
+
+dark - #010201 (Lins nav)
+
+green word in typografi - 90CB6C
+
+addresses - EDF2EC
+
+---------------------------------------------
+drop-down - (unactive) D6E7D2
+drop-down - (active) C1E698
+drop-down - (opened) DCE9D9
+	-font -       499A18
+
+drop btns - (unactive) AEA1A1
+drop btns - (active)   8BA07E
+  
+drop downs -          C1E698
+
+------------------------------------
+opend -     D6E7D2
+not opend - EDF2EC
